@@ -21,3 +21,5 @@ com suas credenciais criadas anteriormente: vercel login;
 
 * Passo 4
 Coloque um arquivo link.txt na pasta do projeto e envie todos os arquivos para o canvas.
+
+** https://react-movies-gamma.vercel.app/movies
