@@ -13,9 +13,9 @@ utilizando os hooks como recurso conforme visto a partir do slide 12.
 * Passo 3
 Hospede a solução no Vercel.js. Para isso, siga os passos abaixo:
 
-# 1. Crie uma conta em verceljs - https://vercel.com/signup;
-# 2. Na linha de comando do seu computador, digite npm i -g vercel;
-# 3. Ainda na linha de comando, navegue até a pasta onde a solução foi desenvolvida e faça o login
+* 1. Crie uma conta em verceljs - https://vercel.com/signup;
+* 2. Na linha de comando do seu computador, digite npm i -g vercel;
+* 3. Ainda na linha de comando, navegue até a pasta onde a solução foi desenvolvida e faça o login
 com suas credenciais criadas anteriormente: vercel login;
 4. Execute o comando “vercel .” para subir a solução para a conta criada.
 
